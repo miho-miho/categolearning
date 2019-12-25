@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<head>
+  <title>Categolearnig_edit</title>
+  <meta charset="utf-8">
+  <link rel="stylesheet" type="text/css" href="./edit.css">
+</head>
+<body>
+<div class="header">
+  <div class="header-logo">Categolearnig&#x270f;</div>
+  <div class="header-list">
+    <div class="header-list">
+      <ul>
+        <li>ユーザー名</li>
+      </ul></div>
+      <div class="blocka">
+         <h1>コンテンツA</h1>
+      </div>
+      <div class="blockb">
+         <h1>コンテンツB</h1>
+      </div>
